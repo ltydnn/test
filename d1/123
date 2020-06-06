@@ -1,0 +1,10 @@
+
+
+init
+clone    克隆一个远程的仓库
+add        将本地的修改添加到暂存区
+commit
+push
+pull
+
+
